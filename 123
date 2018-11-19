@@ -1,0 +1,1 @@
+git clone -b [MODEL] https://github.com/USEPA/CMAQ.git [MODEL]
